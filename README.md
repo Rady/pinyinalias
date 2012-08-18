@@ -12,7 +12,7 @@
 
 ##插件安装：
 
-插件的下载地址是：
+插件的下载地址是：https://github.com/Rady/pinyinalias
 
 作者：Rady Huang ，http://www.radys.cn
 
